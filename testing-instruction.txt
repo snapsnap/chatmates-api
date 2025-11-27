@@ -1,0 +1,3 @@
+# Jalankan test script
+chmod +x test-api.sh
+./test-api.sh
